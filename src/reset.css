@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ol,
+ul {
+  padding-inline-start: 32px;
+}

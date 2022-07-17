@@ -41,3 +41,8 @@ Some things to note:
 * Simplicity is key.
 * The styling should be functional and readable.
 * You can use this file to list any improvements you didn't have time to implement.
+
+#### Improvements
+- use translateY for sibling categories or questions of elements being opened or closed for better UX.
+- use a ref to trigger a click event that would open a question if a link in the question was clicked.
+- close any other expanded items on click.
